@@ -26,5 +26,5 @@ You can hit the spacebar to open the UI in a browser.
     to your Tiltfile. Otherwise, switch k8s contexts and restart Tilt.
     ```
 ## Spring dependencies:
- * spring-boot-starter-web: 2.5.8
- * spring-boot-actuator: 2.5.8
+ * spring-boot-starter-web: 2.6.0
+ * spring-boot-actuator: 2.6.0

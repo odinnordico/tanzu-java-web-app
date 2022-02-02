@@ -8,8 +8,12 @@ management:
         include: "*"
   endpoint:
     health:
+#      probes:
+#        add-additional-paths: true
       show-details: always
 
+#  server:
+#    port: 8181
 #  health:
 #    probes:
 #      enabled: true
