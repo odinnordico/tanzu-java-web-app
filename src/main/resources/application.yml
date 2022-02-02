@@ -5,7 +5,11 @@ management:
   endpoints:
     web:
       exposure:
-        include: "*"  
+        include: "*"
   endpoint:
     health:
       show-details: always
+
+#  health:
+#    probes:
+#      enabled: true
